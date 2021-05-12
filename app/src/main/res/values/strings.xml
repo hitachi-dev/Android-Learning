@@ -5,4 +5,6 @@
     <string name="nav_recycleview">Recycle View</string>
     <string name="nav_bottomsheet">Bottom Sheet</string>
     <string name="nav_settings">Settings</string>
+    <string name="recycleview_appbar_title">Recycle View Demo</string>
+    <string name="recycleview_appbar_title_description">Favorite icon</string>
 </resources>
