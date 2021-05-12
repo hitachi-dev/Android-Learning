@@ -14,7 +14,7 @@
         <com.google.android.material.appbar.MaterialToolbar
             android:id="@+id/topAppBar"
             style="@style/Widget.MaterialComponents.Toolbar.Primary"
-            app:menu="@menu/top_app_bar"
+            app:menu="@menu/recycleview_top_app_bar"
             app:title="@string/recycleview_appbar_title"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize" />

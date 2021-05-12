@@ -3,8 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/action_menu_favorite"
-        android:contentDescription="@string/recycleview_appbar_title_description"
+        android:contentDescription="@string/recycleview_appbar_favorite_description"
         android:icon="@drawable/ic_round_favorite_24"
-        android:title="@string/recycleview_appbar_title"
+        android:title="@string/recycleview_appbar_favorite_title"
         app:showAsAction="ifRoom" />
 </menu>

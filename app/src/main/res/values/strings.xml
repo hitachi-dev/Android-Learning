@@ -2,9 +2,27 @@
     <string name="app_name">Android Learning</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blan11k fragment</string>
+
+    <!-- Navigation bar view strings -->
+
     <string name="nav_recycleview">Recycle View</string>
     <string name="nav_bottomsheet">Bottom Sheet</string>
     <string name="nav_settings">Settings</string>
+
+    <!-- Recycle view strings -->
+
     <string name="recycleview_appbar_title">Recycle View Demo</string>
-    <string name="recycleview_appbar_title_description">Favorite icon</string>
+    <string name="recycleview_appbar_favorite_title">Add to favorites</string>
+    <string name="recycleview_appbar_favorite_description">Favorite icon</string>
+
+    <!-- Bottomsheet view strings -->
+
+    <string name="bottomsheet_appbar_title">Bottom Sheet Demo</string>
+    <string name="bottomsheet_appbar_settings_title">More settings</string>
+    <string name="bottomsheet_appbar_settings_description">Settings icon</string>
+
+    <!-- Settings view strings -->
+
+    <string name="settings_appbar_title">Settings Demo</string>
+
 </resources>
