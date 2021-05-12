@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
     private fun createBadge() {
         bottomNavigation?.getOrCreateBadge(R.id.action_menu_recycleview)?.also { badge ->
             badge.isVisible = true
-            badge.number = 99
+            badge.number = 97
         }
 
         bottomNavigation?.getOrCreateBadge(R.id.action_menu_bottomsheet)?.also { badge ->
