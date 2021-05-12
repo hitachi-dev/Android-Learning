@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Learning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blan11k fragment</string>
+    <string name="nav_recycleview">Recycle View</string>
+    <string name="nav_bottomsheet">Bottom Sheet</string>
+    <string name="nav_settings">Settings</string>
+</resources>

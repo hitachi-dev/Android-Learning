@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_menu_recycleview"
+        android:icon="@drawable/ic_round_list_24"
+        android:title="@string/nav_recycleview" />
+    <item
+        android:id="@+id/action_menu_bottomsheet"
+        android:icon="@drawable/ic_round_vertical_align_top_24"
+        android:title="@string/nav_bottomsheet" />
+    <item
+        android:id="@+id/action_menu_settings"
+        android:icon="@drawable/ic_round_settings_24"
+        android:title="@string/nav_settings" />
+</menu>
