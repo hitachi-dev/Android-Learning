@@ -17,7 +17,7 @@
         tools:layout="@layout/fragment_settings" />
     <fragment
         android:id="@+id/recycleViewFragment"
-        android:name="com.example.androidlearning.RecycleViewFragment"
+        android:name="com.example.androidlearning.fragments.recycleview.RecycleViewFragment"
         android:label="fragment_recycle_view"
         tools:layout="@layout/fragment_recycle_view" />
     <fragment android:id="@+id/placeholder" />
